@@ -3,8 +3,17 @@ body {
 	background-color: black;
 }
 
+h2 {
+   background-color: white;
+   color: black;
+   padding: 5px;
+   border-radius: 10px;
+   width: auto;
+   height: auto;
+}
+
 a {
-	color: white;
+	color: black;
 }
 
 #gallery {
